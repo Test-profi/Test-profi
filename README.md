@@ -1,4 +1,4 @@
-# Hi there, I'm [Test-prof] 👋
+# Hi there, I'm [Test-profi] 👋
 
 ## About Me
 
@@ -48,19 +48,19 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Test-prof&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Test-profi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Test-prof&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Test-profi&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Test-prof&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Test-profi&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Test-prof&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Test-profi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Test-prof&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Test-profi&theme=react-dark)
 
 ## 🔗 Connect with Me
 
@@ -71,4 +71,4 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-⭐️ From [Test-prof](https://github.com/Test-prof)
+⭐️ From [Test-profi](https://github.com/Test-profi)
