@@ -77,8 +77,6 @@ Complete systems analysis and design. Created stakeholder registers, ERDs, domai
 
 
 ## STATISTICS
+![Dan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=d-Biegel&show_icons=true&theme=dark)
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-Biegel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-Biegel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
-
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d-Biegel&theme=dark)](https://github.com/d-Biegel/github-readme-stats)
